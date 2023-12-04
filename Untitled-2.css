@@ -215,3 +215,7 @@ header.sticky{
 .btn:hover{
     transform: scale(0.9) translatey(-5px);
 }
+.courses-content {
+    display: flex;
+    flex-direction: row;
+}
